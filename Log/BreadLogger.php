@@ -8,6 +8,6 @@ namespace Bread\BreadCheckout\Log;
  *
  * @package Bread\BreadCheckout\Log
  */
-class BreadLogger extends \Magento\Framework\Logger\Monolog
+class BreadLogger extends \Monolog\Logger
 {
 }
